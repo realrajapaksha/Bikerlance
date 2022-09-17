@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Bikerlance"
+            android:icon="@mipmap/bikerlance_icon"
+            android:title="Bikerlance" />
+        <item
+            android:id="@+id/nav_my_orders"
+            android:icon="@mipmap/my_orders"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/nav_my_rewards"
+            android:icon="@mipmap/my_rewards"
+            android:title="My Rewards" />
+        <item
+            android:id="@+id/nav_my_cart"
+            android:icon="@mipmap/cart_black"
+            android:title="My Cart" />
+        <item
+            android:id="@+id/nav_my_whishlist"
+            android:icon="@mipmap/my_wishlist"
+            android:title="My Wishlist" />
+
+
+        <item
+            android:id="@+id/nav_compare_bikes"
+            android:icon="@mipmap/compare_bikes"
+            android:title="Compare bikes" />
+
+        <item
+            android:id="@+id/nav_upcoming_bikes"
+            android:icon="@mipmap/upcoming_bikes"
+            android:title="Upcoming bikers" />
+
+        <item
+            android:id="@+id/nav_electrick_bikes"
+            android:icon="@mipmap/electrick_bikers"
+            android:title="Electrick bikes" />
+        <item
+            android:id="@+id/nav_my_account"
+            android:icon="@mipmap/my_account"
+            android:title="My Account" />
+
+    </group>
+
+    <item
+        android:id="@+id/nav_sign_out"
+        android:icon="@mipmap/sign_out"
+        android:title="Sign out" />
+
+</menu>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Bikerlance</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="india_states">
+        <item>kandy</item>
+        <item>gampola</item>
+        <item>colombo</item>
+        <item>weligalla</item>
+        <item>nuwara eliya</item>
+        <item>hatton</item>
+        <item>gelioya</item>
+        <item>nawalapitiya</item>
+        <item>badulla</item>
+        <item>kakirawa</item>
+        <item>nittabuwa</item>
+        <item>kurunagala</item>
+        <item>kadawatha</item>
+        <item>gampaha</item>
+        <item>moratuwa</item>
+        <item>galkissa</item>
+        <item>thalawakale</item>
+        <item>weyangoda</item>
+        <item>kollupitiya</item>
+        <item>kahatapitiya</item>
+        <item>galkissa</item>
+        <item>nugegoda</item>
+        <item>kelaniya</item>
+        <item>biyagama</item>
+        <item>malabe</item>
+        <item>rathnapura</item>
+        <item>digana</item>
+        <item>bothalapitiya</item>
+        <item>kirapane</item>
+        <item>sinhapitiya</item>
+        <item>kajugama</item>
+        <item>welimada</item>
+        <item>ella</item>
+        <item>matara</item>
+        <item>galla</item>
+        <item>hambanthota</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547863479015",
+    "project_id": "bikerlance-app",
+    "storage_bucket": "bikerlance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547863479015:android:71c930345dfd08b8ea1842",
+        "android_client_info": {
+          "package_name": "com.example.shehan.bikerlance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547863479015-21k0p07h6ovn9k5magl9mlpatlii7q49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5QPt6i7SWOLLalVdMNhBSNli-6bnq21M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547863479015-21k0p07h6ovn9k5magl9mlpatlii7q49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

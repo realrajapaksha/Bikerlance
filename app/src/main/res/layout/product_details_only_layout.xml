@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/product_details_container"
+    android:background="@color/colorAccent"
+    android:elevation="3dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginBottom="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/product_details_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="#d4d4d4"
+        android:padding="16dp"
+        android:text="Product Details"
+        android:textColor="#9c9c9c"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/product_details_body"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="The honda cbr 1000RR,marketed in some countries as the Fireblade is a 999cc liquid-cooled inline four cylinder superbike,introduced by Honda in 2004 as the 7th generation of CBR serious of motorcycles that began with CBR900RR in 1990.
+
+
+                                                             The seventh-generation RR (SC57), the Honda CBR1000RR, was the successor to the 2002 CBR954RR. While evolving the CBR954RR design, few parts were carried over to the CBR1000RR.[4] The compact 998 cc (60.9 cu in) in-line four was a new design, with different bore and stroke dimensions, race-inspired cassette-type six-speed gearbox, all-new ECU-controlled ram-air system, dual-stage fuel injection, and center-up exhaust with a new computer-controlled butterfly valve.
+
+                                                     ."
+        android:textColor="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/product_details_title" />
+</android.support.constraint.ConstraintLayout>
